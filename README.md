@@ -1,2 +1,2 @@
-# george-inn-frant
-george inn frant
+# The George Inn Frant
+
